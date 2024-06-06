@@ -3,7 +3,7 @@
 </div>
 
 <!--The gif of cat and link github-->
-<h3> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/><img src="https://readme-typing-svg.herokuapp.com/?color=6E260E&height=18&width=300&vCenter=true&lines=Lanang+Gading+Pasa;Junior+Web+Dev" /> </h3>
+<h3> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/><img src="https://readme-typing-svg.herokuapp.com/?color=EADDCA&height=18&width=300&vCenter=true&lines=Lanang+Gading+Pasa;Junior+Web+Dev" /> </h3>
 
 <!--There is the image than is in side right-->
 <img boder="2px" src="image/avkvkzbem.png" min-width="400px" max-width="400px" width="350px" height="300px" align="right" alt="Error to load the image">
