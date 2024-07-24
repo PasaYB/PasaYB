@@ -33,10 +33,9 @@
 <!--Connect-->
 <div align="leftt"> 
   <h3> :earth_americas: &nbsp;Let's Connect! </h3> 
-  
+  <a href="mailto:lananggading.pasa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pszaaaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.x.com/divinefailuree" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-  <a href="mailto:lananggading.pasa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/31vvix4wxplknhfa5oyktye6b4qm?si=8a7533497f3243ce"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"><a>
 </div>
 <br>
